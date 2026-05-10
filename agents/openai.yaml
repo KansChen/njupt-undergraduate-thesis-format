@@ -1,0 +1,4 @@
+interface:
+  display_name: "NUPT Thesis Format"
+  short_description: "南京邮电大学本科毕业设计论文格式规范审查与排版指南"
+  default_prompt: "Use $njupt-undergraduate-thesis-format to format or review a 南京邮电大学本科毕业设计（论文） DOCX."
